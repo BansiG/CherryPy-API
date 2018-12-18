@@ -1,6 +1,6 @@
 # Craigslist CherryPy API
 
-1. Craigslist.py
+Craigslist.py
 
 It consists of python code with following functions:
 1. sort_by_price() to sort the data by price value
@@ -10,6 +10,7 @@ It consists of python code with following functions:
 5. item_by_userId() to get item list with given userId
 6. item_by_radius() to get item list within given radius
 
-2. api.py
+
+api.py
 
 It consists of CherryPy implementation of above code
